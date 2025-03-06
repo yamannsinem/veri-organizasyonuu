@@ -1,2 +1,2 @@
 # veri-organizasyonuu
-Şema
+
